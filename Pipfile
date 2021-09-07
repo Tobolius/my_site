@@ -9,6 +9,7 @@ pillow = "*"
 django-ckeditor = "*"
 django-map-widgets = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
